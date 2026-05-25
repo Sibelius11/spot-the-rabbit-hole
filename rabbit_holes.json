@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "title": "The Map Before The World",
+    "teaser": "In 1494, Spain and Portugal divided the entire planet between themselves — before either empire had mapped most of it. The Treaty of Tordesillas drew a line through oceans and continents that Europeans hadn't seen yet, and both sides agreed to it anyway. How do you enforce a border through territory you've never visited?",
+    "category": "history"
+  },
+  {
+    "id": 2,
+    "title": "Pompeii's Very Modern Insults",
+    "teaser": "The walls of Pompeii are covered in election graffiti, sexual boasts, and remarkably specific personal insults — scratched there by people who had no idea they were writing for eternity. One reads: 'Gaius Pumidius Diphilus was here,' dated to 78 BC. The victims of history's most famous disaster were, it turns out, arguing on walls exactly like we do.",
+    "category": "history"
+  },
+  {
+    "id": 3,
+    "title": "Rome Fell in 1453",
+    "teaser": "Most people believe the Roman Empire fell in 476 AD. The Eastern Roman Empire — with Roman law, Roman titles, and a Roman emperor — kept going for nearly a thousand more years, until Constantinople fell in 1453, well into the age of the printing press. We've been marking the wrong date as a civilizational turning point.",
+    "category": "history"
+  },
+  {
+    "id": 4,
+    "title": "The Dancing Plague of 1518",
+    "teaser": "In July 1518, hundreds of people in Strasbourg began dancing compulsively in the streets and couldn't stop — some for days, until they collapsed from exhaustion or died from heart failure. City authorities, believing more dancing would cure them, hired musicians to keep the rhythm going. No one has ever fully explained what happened.",
+    "category": "history"
+  },
+  {
+    "id": 5,
+    "title": "The Window That Started a War",
+    "teaser": "In 1618, Protestant nobles threw three Catholic officials out of a 70-foot window in Prague to protest Habsburg authority — and all three survived. Catholics called it a miracle of divine intervention; Protestants said they landed in a pile of manure. The argument about who was right helped start the Thirty Years' War, which killed a third of central Europe's population.",
+    "category": "history"
+  },
+  {
+    "id": 6,
+    "title": "Purple Dye's Rotting Secret",
+    "teaser": "For most of human history, purple dye required crushing thousands of sea snails — Murex brandaris — per ounce, and the process involved leaving them to putrefy in the sun. Tyrian purple dye works were so offensively odorous they were legally banned from city centers. The color that signified royalty smelled like death.",
+    "category": "history"
+  },
+  {
+    "id": 7,
+    "title": "Jefferson's Library Had Everything",
+    "teaser": "When the British burned the U.S. Library of Congress in 1814, Congress replaced it by purchasing Thomas Jefferson's personal book collection. Jefferson's library included volumes on architecture, philosophy, natural history — but also a Quran, Islamic legal texts, and at least one book of erotica. America's foundational reference collection was shaped by one man's eclectic curiosity.",
+    "category": "history"
+  },
+  {
+    "id": 8,
+    "title": "Space Smells Like Seared Steak",
+    "teaser": "Astronauts returning from spacewalks consistently report that their suits carry a distinctive smell: something between hot metal, seared steak, and welding fumes. The smell has been documented by multiple independent accounts from different missions and space agencies. No one has conclusively explained what's producing it, and replicating it on Earth has proven surprisingly difficult.",
+    "category": "science"
+  },
+  {
+    "id": 9,
+    "title": "Trees That Starve Each Other",
+    "teaser": "Trees in forests share nutrients through underground fungal networks in ways that look like cooperation — but recent research suggests older trees may use the same networks to suppress competitors by controlling nutrient flow. The forest isn't just a community; it may also be an arena. What we interpreted as generosity might be something else entirely.",
+    "category": "science"
+  },
+  {
+    "id": 10,
+    "title": "Your Nose May Be Quantum",
+    "teaser": "The dominant theory of smell isn't based on molecular shape — it may involve quantum tunneling, where electrons pass through molecular barriers to detect the vibrational frequency of scent molecules. If true, your olfactory system is performing quantum computation every time you smell coffee. We've been describing a quantum sensor using the vocabulary of a lock and key.",
+    "category": "science"
+  },
+  {
+    "id": 11,
+    "title": "The Sun's Backwards Temperature",
+    "teaser": "The surface of the sun is roughly 6,000 degrees Celsius. Its outer atmosphere — the corona — exceeds a million degrees, despite being farther from the heat source. This violates basic thermodynamic intuition, and physicists have been arguing about why for decades. The proposed explanations involve magnetic reconnection events and plasma waves, but the corona heating problem remains genuinely open.",
+    "category": "science"
+  },
+  {
+    "id": 12,
+    "title": "Ball Lightning Has No Explanation",
+    "teaser": "Ball lightning — glowing, floating orbs that drift through walls, change direction, and sometimes explode — has been reported consistently across centuries and cultures, with thousands of eyewitness accounts. Physicists cannot reliably reproduce it in a laboratory. The proposed mechanisms include plasma vortices, microwave radiation, and burning silicon nanoparticles. None fully account for all the documented behaviors.",
+    "category": "science"
+  },
+  {
+    "id": 13,
+    "title": "Antibiotic Resistance Travels Sideways",
+    "teaser": "Bacteria can become resistant to an antibiotic they've never encountered by absorbing resistance genes from other bacteria through a process called horizontal gene transfer — essentially picking up traits the way you'd pick up a dropped document. This means resistance doesn't just evolve; it spreads laterally through bacterial populations at speeds evolution alone can't explain. A bacteria treated in one patient can pass its defenses to bacteria in another country.",
+    "category": "science"
+  },
+  {
+    "id": 14,
+    "title": "The Placebo Effect Is Strengthening",
+    "teaser": "Clinical trial data shows that the placebo response in pain and depression studies has grown measurably stronger over the past three decades — and is significantly more powerful in American trials than in European ones. Something about how modern patients experience expectation and medical ritual is changing the biological effect of doing nothing. The control group is getting harder to control.",
+    "category": "science"
+  },
+  {
+    "id": 15,
+    "title": "The Tardigrade Woke Up After 30 Years",
+    "teaser": "Tardigrades can survive in a dessicated, near-dead state called cryptobiosis for decades, then revive when water is added. In 2016, researchers successfully revived a tardigrade from 30-year-old Antarctic ice — and it reproduced. The question isn't just how it survived, but what, if anything, its experience of those thirty years was like.",
+    "category": "nature"
+  },
+  {
+    "id": 16,
+    "title": "The Island Evolution Forgot",
+    "teaser": "Socotra Island, off the Horn of Africa, is so isolated that 37% of its plant species exist nowhere else on Earth — including the Dragon Blood Tree, which produces bright red resin when cut and has a shape found in no other tree. The island split from mainland Arabia so long ago that its life has been evolving independently for millions of years. It's a living snapshot of a world that no longer exists.",
+    "category": "nature"
+  },
+  {
+    "id": 17,
+    "title": "Crow Funerals Are Intelligence Tests",
+    "teaser": "Crows gather around their dead in behavior researchers describe as 'funerals' — loud, collective, and highly attentive. It looks like mourning, but the leading scientific explanation is that crows are conducting threat assessment: studying the scene to determine what killed the crow, then updating their behavior accordingly. What appears to be grief may be a form of distributed, social intelligence.",
+    "category": "nature"
+  },
+  {
+    "id": 18,
+    "title": "The Pistol Shrimp's Miniature Sun",
+    "teaser": "When a pistol shrimp snaps its claw, it creates a cavitation bubble that reaches temperatures approaching 8,000 degrees Fahrenheit — briefly hotter than the surface of the sun — before collapsing in milliseconds. The snap also produces a flash of light and a sound louder than a gunshot. A creature smaller than your finger is casually generating stellar temperatures to catch food.",
+    "category": "nature"
+  },
+  {
+    "id": 19,
+    "title": "Slime Mold Designed a Railway",
+    "teaser": "Researchers placed Physarum polycephalum — a brainless, single-celled slime mold — on a map of the Tokyo metropolitan area, with oat flakes representing major cities. The mold grew a nutrient-transport network almost identical to the actual Tokyo rail system. A organism with no neurons, no centralized processing, and no plans solved an urban engineering problem in 26 hours.",
+    "category": "nature"
+  },
+  {
+    "id": 20,
+    "title": "The Mantis Shrimp's Color Paradox",
+    "teaser": "The mantis shrimp has 16 types of photoreceptors — compared to 3 in humans — yet research suggests it's actually worse than humans at distinguishing subtle color differences. It appears to process color more like a barcode scanner than a painter, using its receptors for rapid classification rather than nuanced perception. The animal with the most complex visual hardware may experience color in a way that's less rich than ours, not more.",
+    "category": "nature"
+  },
+  {
+    "id": 21,
+    "title": "Childhood Was Invented",
+    "teaser": "Medieval European art depicts children as physically small adults — not because artists lacked skill, but because childhood as a distinct developmental phase wasn't socially constructed the way it is today. The idea of a prolonged period of protected, non-working development emerged gradually through the 17th and 18th centuries, driven by shifting economics and philosophy. The childhood you remember is a historically recent idea.",
+    "category": "culture"
+  },
+  {
+    "id": 22,
+    "title": "The Handshake Was a Weapon Check",
+    "teaser": "The handshake is believed to have originated as a gesture of mutual disarmament — proof that neither party was concealing a weapon in their right hand. The practice of pumping the arm may have been to shake loose any blade hidden in a sleeve. We've retained the ritual long after the threat disappeared, turning a security gesture into a social obligation.",
+    "category": "culture"
+  },
+  {
+    "id": 23,
+    "title": "Professional Mourners Were Real Jobs",
+    "teaser": "Ancient Greeks, Romans, and many other cultures hired professional mourners — typically women — who were paid to wail, weep, and perform grief at funerals. The practice persisted in parts of the Middle East, China, and West Africa well into the 20th century. At some point, Western modernity decided grief should be performed authentically or not at all — and the profession quietly vanished.",
+    "category": "culture"
+  },
+  {
+    "id": 24,
+    "title": "Boredom Is a Modern Condition",
+    "teaser": "The word 'boredom' in its modern sense — a restless, hollow inner emptiness distinct from mere idleness — barely existed in English before the 19th century. Philosophers argue the condition itself may have been created by industrial modernity, which separated people from meaningful labor and produced unprecedented quantities of unstructured time. People in pre-industrial societies weren't bored; they may have lacked the cultural infrastructure to be.",
+    "category": "culture"
+  },
+  {
+    "id": 25,
+    "title": "Laughter Is Older Than Jokes",
+    "teaser": "Laughter in humans is evolutionarily older than language — great apes laugh, and the sound is remarkably similar to human laughter. The leading evolutionary theory holds that it originated not as a response to humor, but as a social signal meaning 'the threat has passed' — derived from the panting exhale of relief. Every time you laugh, you may be telling the group the predator is gone.",
+    "category": "culture"
+  },
+  {
+    "id": 26,
+    "title": "Age Is a Social Agreement",
+    "teaser": "In the traditional Korean age system, a person is born at age one — because the time in the womb is counted — and everyone advances a year simultaneously on New Year's Day, not their birthday. The system was internally consistent for centuries. Its collision with international legal systems that use birth-date age created genuine bureaucratic chaos and was officially replaced only in 2023. We assume age is a biological fact; it's a counting system.",
+    "category": "culture"
+  },
+  {
+    "id": 27,
+    "title": "The Language With No Directions",
+    "teaser": "The Guugu Yimithirr people of northern Australia have no words for left, right, front, or back — only absolute cardinal directions: north, south, east, west. They use these directions even indoors, even in their dreams. Research with speakers found they maintain a constant, accurate mental compass that most humans never develop. Their spatial cognition is architecturally different from ours.",
+    "category": "language"
+  },
+  {
+    "id": 28,
+    "title": "Some Languages Force You to Cite Sources",
+    "teaser": "Turkish grammar requires speakers to choose between verb tenses that grammatically encode whether they witnessed something directly or heard it from someone else. Saying 'the president arrived' versus 'the president apparently arrived' is not optional — it's baked into the verb form. Languages with this feature, called evidentiality, may make their speakers structurally less able to state hearsay as fact.",
+    "category": "language"
+  },
+  {
+    "id": 29,
+    "title": "Writing Started as Accounting",
+    "teaser": "The oldest known writing — Sumerian cuneiform, from around 3400 BC — isn't poetry, history, or prayer. It's inventory lists. 'Twenty-nine measures of barley.' Writing appears to have been invented to track economic transactions, not to record thought. The technology we use for literature, philosophy, and law began as a spreadsheet.",
+    "category": "language"
+  },
+  {
+    "id": 30,
+    "title": "The Phoneme English Is Losing",
+    "teaser": "The 'th' sound in 'the' — called the voiced dental fricative — is one of the rarest phonemes on Earth, present in only about 4% of documented languages. Linguists have noted it may be disappearing even from English, replaced by 'd' or 'f' sounds in many dialects, particularly in urban speech communities. A sound that defines English pronunciation may not survive the century.",
+    "category": "language"
+  },
+  {
+    "id": 31,
+    "title": "Sign Languages Have Accents",
+    "teaser": "There are hundreds of distinct, mutually unintelligible sign languages worldwide — American Sign Language and British Sign Language are almost entirely different, despite both serving English-speaking deaf communities. Within each sign language, regional dialects, generational differences, and sociolects exist just as in spoken languages. Two ASL signers from different American cities may struggle to understand each other.",
+    "category": "language"
+  },
+  {
+    "id": 32,
+    "title": "The Language That Died at 84",
+    "teaser": "Ubykh, a language of the Caucasus, had 84 consonants — one of the most complex phonological systems ever documented — and zero vowels that could stand alone. Its last native speaker, Tevfik Esen, died in 1992 in Turkey, having outlived his entire linguistic community. He reportedly felt his death as the extinction of a world. What disappears when a language dies isn't just words — it's a way of dividing reality.",
+    "category": "language"
+  },
+  {
+    "id": 33,
+    "title": "Honey Found in Tombs Still Works",
+    "teaser": "Honey discovered in 3,000-year-old Egyptian tombs has been found still edible — and in some accounts, still sweet. Its preservation mechanism involves low moisture content, high acidity, naturally occurring hydrogen peroxide, and antimicrobial compounds produced by bees. Hospitals now use medical-grade honey to treat antibiotic-resistant wound infections. The ancient Egyptians were using it for wounds too.",
+    "category": "food"
+  },
+  {
+    "id": 34,
+    "title": "Sichuan Pepper Isn't Spicy",
+    "teaser": "Sichuan pepper doesn't produce heat — it produces a vibrating, tingling numbness by activating touch receptors in your mouth at approximately 50 hertz. You're not tasting a flavor; you're feeling a physical vibration at a specific measurable frequency. Researchers who studied the effect note it's more analogous to touching a tuning fork to your tongue than to eating something spicy.",
+    "category": "food"
+  },
+  {
+    "id": 35,
+    "title": "Coffee Was Banned as Sedition",
+    "teaser": "In 1675, King Charles II attempted to ban coffeehouses in England — not for health reasons, but because they had become centers of political dissent where men of different classes gathered to read pamphlets and argue. The ban was reversed within 11 days due to overwhelming public outrage. The history of caffeine regulation is inseparable from the history of political speech.",
+    "category": "food"
+  },
+  {
+    "id": 36,
+    "title": "The Cheese You're Eating Is Alive",
+    "teaser": "Mimolette, a French cheese, is intentionally colonized by cheese mites — tiny arachnids whose burrowing and waste create the distinctive flavor and cratered rind. The FDA has periodically banned its import because the mite population per square inch exceeds acceptable limits. Every bite of a properly aged Mimolette contains the activity of creatures you cannot see.",
+    "category": "food"
+  },
+  {
+    "id": 37,
+    "title": "Two Companies Flavor the World",
+    "teaser": "The vast majority of artificial and 'natural' flavors in processed food are produced by a tiny number of Swiss and American flavor companies — most notably Givaudan and International Flavors & Fragrances. Their labs determine the flavor profile of products consumed by billions of people daily, yet their names appear on no packaging. A handful of chemists are making the world's most consequential food decisions.",
+    "category": "food"
+  },
+  {
+    "id": 38,
+    "title": "Sourdough Carries the Baker's Microbiome",
+    "teaser": "Research into sourdough starters from around the world found not just regional differences in flour or water chemistry, but distinct microbial communities shaped partly by the microbiome of the bakers' hands. San Francisco sourdough's famous tang may be literally connected to the specific bacteria living in the skin of Bay Area bakers. The bread is an extension of the person who makes it.",
+    "category": "food"
+  },
+  {
+    "id": 39,
+    "title": "The Delusion That Replaces Loved Ones",
+    "teaser": "Capgras syndrome causes sufferers to believe that their spouse, parent, or close friend has been replaced by an identical impostor. It's caused by a specific neurological disconnection: the brain's facial recognition system works, but the emotional familiarity response doesn't fire alongside it. The face is recognized as correct; the feeling that goes with it is absent. The brain concludes the only logical explanation is fraud.",
+    "category": "psychology"
+  },
+  {
+    "id": 40,
+    "title": "Your Childhood Memories May Be Fiction",
+    "teaser": "Psychologist Elizabeth Loftus demonstrated through controlled experiments that entirely false memories — events that never happened — can be implanted in adults through suggestion alone. Subjects not only 'remembered' the fabricated events but generated sensory details, emotional content, and narrative around them. Memory is not a recording; it's a reconstruction. And reconstructions can be edited by other people.",
+    "category": "psychology"
+  },
+  {
+    "id": 41,
+    "title": "The Rubber Hand Owns Itself",
+    "teaser": "When subjects watch a rubber hand being stroked in sync with their real hidden hand, they begin to feel ownership of the fake hand within minutes — and flinch, with measurable stress responses, when the rubber hand is threatened. The brain assigns 'selfhood' to whatever receives synchronized sensory input from the environment. Your sense of inhabiting your body is a continuously computed inference, not a fixed fact.",
+    "category": "psychology"
+  },
+  {
+    "id": 42,
+    "title": "Blindsight: Vision Without Awareness",
+    "teaser": "Patients with damage to the primary visual cortex report complete blindness in the affected visual field — and they're correct: they report seeing nothing. But when researchers ask them to guess what's there and force them to choose, they perform well above chance. Something in the brain is processing visual information that never reaches conscious experience. Seeing and knowing you're seeing are two separate processes.",
+    "category": "psychology"
+  },
+  {
+    "id": 43,
+    "title": "Competence Needs a Small Mistake",
+    "teaser": "The Pratfall Effect is a documented psychological phenomenon: highly competent people become significantly more likable after making a minor, visible blunder. Perfection signals social distance; a stumble makes expertise feel human and approachable. Studies suggest the most trusted expert in a room is often the one who just knocked something over. Flawlessness reads as inaccessibility.",
+    "category": "psychology"
+  },
+  {
+    "id": 44,
+    "title": "Large Requests Prime Small Ones",
+    "teaser": "If you want someone to agree to a moderate request, begin by making an outrageously large request you know they'll refuse. The refusal creates a social debt of reciprocity — the person feels they've already said no once, and the follow-up seems like a reasonable compromise. This isn't manipulation in the pop-psychology sense; it's a documented feature of how humans negotiate social fairness, and it functions even when people know about it.",
+    "category": "psychology"
+  },
+  {
+    "id": 45,
+    "title": "The Famine That Exported Food",
+    "teaser": "During the Irish Famine of the 1840s — while approximately one million people starved and another million emigrated in desperate flight — Ireland continued exporting significant quantities of food to Britain. Grain, livestock, and butter left Irish ports on ships under armed guard while people died in adjacent fields. This is not a suppressed fact; it's a contested one that implicates how famine is defined and by whom.",
+    "category": "economics"
+  },
+  {
+    "id": 46,
+    "title": "The Cobra Bounty Made More Cobras",
+    "teaser": "Colonial British authorities in India, seeking to reduce the cobra population, offered a cash bounty for every dead snake. Enterprising locals began breeding cobras for the income stream. When the government cancelled the program upon discovering this, breeders released their now-worthless snakes — increasing the cobra population beyond its starting point. The Cobra Effect is now the canonical example of how incentive programs create parallel incentives to subvert them.",
+    "category": "economics"
+  },
+  {
+    "id": 47,
+    "title": "The Currency at the Bottom of the Sea",
+    "teaser": "The island of Yap in Micronesia used carved limestone discs — some over twelve feet in diameter and impossible to move — as currency. Ownership was tracked verbally, through community consensus. A disc that sank to the ocean floor during transport remained valid currency for its owner, lying unseen at the bottom of the sea. The entire monetary system was consensus reality with no physical settlement mechanism.",
+    "category": "economics"
+  },
+  {
+    "id": 48,
+    "title": "Poor Households Invest in Festivals",
+    "teaser": "Economic research in developing countries found that extremely poor households often allocate a surprisingly high share of their income to festivals, ceremonies, and social celebrations rather than food or healthcare — a pattern that looks irrational by standard economic models. But in communities without formal insurance, banking, or safety nets, social capital is the only risk-management system available. What looks like waste is portfolio diversification.",
+    "category": "economics"
+  },
+  {
+    "id": 49,
+    "title": "Shrinkflation Has No Disclosure Requirement",
+    "teaser": "When manufacturers reduce the contents of a package while keeping the price the same, they are generally not required by law to disclose this in most jurisdictions. The practice — documented at scale across food, cosmetics, and household products — is legal, widespread, and designed to be imperceptible. Unit pricing on supermarket shelves exists partly to counteract it, but the label saying 'now 10% less' never appears.",
+    "category": "economics"
+  },
+  {
+    "id": 50,
+    "title": "Tragedy Has a Ticket Price",
+    "teaser": "Sites of mass death and atrocity — Auschwitz, Chernobyl, Ground Zero, the Killing Fields — generate substantial and growing tourism revenue. This creates strange institutional pressures around what to preserve, how to present, and how to market suffering to visitors with discretionary income. Someone made a decision about how to design a visitor experience at the Holocaust. That decision is made by humans with budgets.",
+    "category": "economics"
+  },
+  {
+    "id": 51,
+    "title": "Fecal Transplants Outperform Antibiotics",
+    "teaser": "Fecal microbiota transplantation — transferring stool from a healthy donor into a sick patient — cures Clostridioides difficile infections at rates approaching 90%, far outperforming the best available antibiotics. The FDA only approved a standardized capsule-based version in 2023, despite decades of evidence. A highly effective cure existed and was widely documented before the medical establishment was willing to take it seriously.",
+    "category": "medicine"
+  },
+  {
+    "id": 52,
+    "title": "The Surgery That Didn't Happen Healed",
+    "teaser": "In multiple rigorous randomized trials, patients who underwent sham knee surgery — incisions made, knee opened and inspected, then closed without any procedure — reported identical pain relief and functional improvement to patients who had actual interventions. The operation that didn't happen healed them anyway. This raises unsettling questions about how many surgical procedures are actually treating expectation rather than anatomy.",
+    "category": "medicine"
+  },
+  {
+    "id": 53,
+    "title": "Ancient Skull Drilling Had Survivors",
+    "teaser": "Trepanation — drilling or scraping holes in the skull — is one of the oldest documented surgical procedures, found across cultures from Neolithic Europe to pre-Columbian South America. Archaeological analysis of skulls shows healed bone growth around the holes in many cases, proving patients survived the procedure. We still don't know with certainty what condition was being treated, or why it worked often enough that people kept doing it.",
+    "category": "medicine"
+  },
+  {
+    "id": 54,
+    "title": "The Ulcer Doctor Drank the Bacteria",
+    "teaser": "In 1984, Barry Marshall drank a petri dish solution containing H. pylori — a bacterium he believed caused stomach ulcers — deliberately infected himself, developed gastritis, then cured it with antibiotics. For over a decade, the medical establishment rejected his theory; stress and acid were the accepted causes. He won the Nobel Prize in Medicine in 2005. The delay contributed to millions of unnecessary surgeries and lifelong antacid dependency.",
+    "category": "medicine"
+  },
+  {
+    "id": 55,
+    "title": "Nocebo: Expectation Can Harm You",
+    "teaser": "If 'placebo' means 'I will please,' nocebo means 'I will harm.' Patients informed that a treatment might cause nausea, headache, or fatigue experience those side effects at significantly higher rates — even when receiving a sugar pill. The expectation of harm is itself physiologically harmful. This creates an uncomfortable tension at the heart of informed consent: telling patients what might go wrong might make it go wrong.",
+    "category": "medicine"
+  },
+  {
+    "id": 56,
+    "title": "The Appendix Had a Job",
+    "teaser": "For over a century, the appendix was classified as a vestigial evolutionary remnant with no known function — routinely removed without concern at the first sign of trouble. Recent research suggests it serves as a protected reservoir of beneficial gut bacteria, enabling microbiome repopulation after illness or antibiotics. Medicine was removing a backup system it didn't know existed, in patients who then faced harder recoveries from gastrointestinal illness.",
+    "category": "medicine"
+  },
+  {
+    "id": 57,
+    "title": "Leprosy Only Infects Armadillos",
+    "teaser": "Leprosy, which shaped religious law, social segregation, and fear across millennia of human history, cannot be grown in a standard laboratory culture — it only replicates inside living organisms. It infects humans and, curiously, nine-banded armadillos, which have now become a reservoir for transmission in the American South. Roughly 30% of people are entirely genetically immune. We still do not fully understand how it spreads.",
+    "category": "medicine"
+  },
+  {
+    "id": 58,
+    "title": "Some States Owned Your Rainwater",
+    "teaser": "In several western U.S. states, collecting rainwater from your own roof was historically illegal — because water rights along river systems had been allocated to downstream users before the rain fell on your land. The moment precipitation left the cloud, it legally belonged to someone downstream. You were standing on your own property catching water that was already owned.",
+    "category": "law"
+  },
+  {
+    "id": 59,
+    "title": "Antarctica Has No Criminal Court",
+    "teaser": "If a crime is committed in Antarctica, jurisdiction is ambiguous — determined by the nationality of the perpetrator, the victim, or the operating nation of the base where it occurs, depending on the treaty. There is no Antarctic criminal justice system, no prison, and no prosecutor. As of now, no one has been criminally prosecuted for a crime committed on the continent, though incidents have occurred.",
+    "category": "law"
+  },
+  {
+    "id": 60,
+    "title": "Double Jeopardy Has a Loophole",
+    "teaser": "The Fifth Amendment's protection against double jeopardy does not apply when federal and state jurisdictions overlap in the U.S. A person acquitted in state court can be tried again for the same act by federal prosecutors — not as a loophole, but as a constitutionally confirmed feature of the dual sovereignty doctrine. The Supreme Court has upheld this repeatedly. You can be found not guilty and tried again.",
+    "category": "law"
+  },
+  {
+    "id": 61,
+    "title": "Juries Can Ignore the Law",
+    "teaser": "In the U.S., juries have the legal right to acquit a defendant they believe is guilty if they find the underlying law unjust — a principle called jury nullification. This right has been affirmed by courts but is systematically withheld from juries: judges are not required to inform them of it, and in some jurisdictions, jurors who acknowledge knowing about it can be dismissed during selection.",
+    "category": "law"
+  },
+  {
+    "id": 62,
+    "title": "Your Genome Can Be Sold",
+    "teaser": "When consumers consent to commercial genetic testing services, terms of service often grant the company broad licensing rights to their genetic data — including sale to pharmaceutical companies, biotech firms, and in some cases, law enforcement. Your genome, which is uniquely and permanently yours, can become an asset on someone else's balance sheet. The people in your family who never consented also appear, statistically, in your data.",
+    "category": "law"
+  },
+  {
+    "id": 63,
+    "title": "Financial Crimes Expire, Murder Doesn't",
+    "teaser": "Most jurisdictions have no statute of limitations for murder — it can be prosecuted decades after the fact. But many financial crimes, including complex fraud schemes affecting thousands of victims, have statutes of limitations of five to ten years. The decisions about which crimes expire were made by legislatures, often at the behest of industries with the most exposure to prosecution. The asymmetry is not accidental.",
+    "category": "law"
+  },
+  {
+    "id": 64,
+    "title": "The 38-Minute War",
+    "teaser": "The Anglo-Zanzibar War of 1896 lasted between 38 and 45 minutes — the shortest war in recorded history. British ships shelled the Sultan's palace at 9:02 a.m.; his navy was sunk and he had fled by 9:40. What makes it strange is how fully the outcome was predetermined: the British fleet was already positioned, the ultimatum had been delivered, and the result was never in doubt. The war existed to make defeat official.",
+    "category": "war"
+  },
+  {
+    "id": 65,
+    "title": "The Soldier Who Fought Until 1974",
+    "teaser": "Hiroo Onoda, a Japanese intelligence officer stationed in the Philippines, continued fighting a guerrilla campaign in the jungle until 1974 — nearly 30 years after World War II ended — because no one had successfully convinced him it was over. He dismissed leaflets, newspapers, and letters from his family as enemy propaganda. He finally surrendered only when his original commanding officer flew from Japan to personally relieve him of duty. He had continued to kill people in the intervening decades.",
+    "category": "war"
+  },
+  {
+    "id": 66,
+    "title": "Britain Built Ears Before Radar",
+    "teaser": "Before radar existed, Britain constructed large concrete parabolic listening structures — some over 200 feet wide — along its coastline, designed to focus and amplify the sound of approaching aircraft engines. The 'acoustic mirrors' worked, providing several minutes of advance warning. They were rendered obsolete almost immediately by the arrival of faster aircraft that could outrun the warning. The structures still stand on the Kent coast.",
+    "category": "war"
+  },
+  {
+    "id": 67,
+    "title": "The Plague Was Also a Weapon",
+    "teaser": "In 1346, Mongol forces besieging the Crimean city of Caffa catapulted plague-infected corpses over the city walls — centuries before germ theory existed. Historians believe fleeing Genoese merchants may have carried infected fleas from Caffa back to Sicily, seeding the Black Death's entry into Europe. Someone, without understanding bacteria, understood that the bodies themselves were the weapon.",
+    "category": "war"
+  },
+  {
+    "id": 68,
+    "title": "The Last Day's Pointless Victory",
+    "teaser": "Canadian troops liberated the Belgian city of Mons in the early morning hours of November 11, 1918 — the final day of World War I, hours before the Armistice that had already been signed. Evidence suggests the attack was ordered by commanders who knew the war would end that day. Men died to capture a city that was already guaranteed to be free by breakfast.",
+    "category": "war"
+  },
+  {
+    "id": 69,
+    "title": "The Rules of War Were Written at Meetings",
+    "teaser": "International humanitarian law — which defines war crimes and prohibits certain weapons — was written at specific diplomatic conferences by specific delegates who made historically contingent decisions. Dum-dum bullets are banned; white phosphorus munitions are not. Cluster munitions that kill civilians for decades are accepted by states that refused to sign the relevant treaty. The line between what's a war crime and what's permissible was literally drawn at conference tables.",
+    "category": "war"
+  },
+  {
+    "id": 70,
+    "title": "The Bible's Table of Contents Was Voted On",
+    "teaser": "The canon of the Christian Bible — which texts were scripture and which were excluded — was determined through a series of councils, debates, and ecclesiastical politics across several centuries. Many early Christian communities revered texts now considered apocryphal, and many of the excluded texts were in wide circulation. The document that anchors Western civilization's most influential religion was assembled by committee vote.",
+    "category": "religion"
+  },
+  {
+    "id": 71,
+    "title": "St. Christopher Probably Didn't Exist",
+    "teaser": "St. Christopher, the patron saint of travelers whose medal has hung from millions of car rearview mirrors, was removed from the Roman Catholic liturgical calendar in 1969 because historians could find no credible evidence he ever existed. Many beloved saints appear to be Christianized versions of pagan figures, composite legends, or entirely invented personages. The Church has quietly been acknowledging this for decades.",
+    "category": "religion"
+  },
+  {
+    "id": 72,
+    "title": "Purgatory Was Invented and Monetized",
+    "teaser": "The concept of Purgatory — a middle state of purification between death and heaven — was not part of early Christian theology. It was systematically developed in the 12th century, formally defined at the Council of Florence in 1439, and generated significant institutional revenue through the sale of indulgences — payments that could reduce time in Purgatory for oneself or a deceased relative. Martin Luther's response to indulgence-selling started the Protestant Reformation.",
+    "category": "religion"
+  },
+  {
+    "id": 73,
+    "title": "Saints' Visions Had a Neurological Profile",
+    "teaser": "Several historical religious figures whose experiences anchored major theological traditions — including St. Paul's road-to-Damascus vision and numerous medieval mystics — have been retroactively analyzed by neurologists as consistent with the symptom profile of temporal lobe epilepsy, which can produce vivid religious experiences, voices, and visions of light. The neurology of conversion experiences is documented and measurable. What this means for the experiences themselves is a question science cannot answer.",
+    "category": "religion"
+  },
+  {
+    "id": 74,
+    "title": "The Religion Stored Only in Memory",
+    "teaser": "The Yazidi faith, practiced by an ancient community in northern Iraq and Syria, preserved its religious knowledge entirely in oral tradition for centuries — no written scripture, intentionally, to protect it from persecution and forced conversion. When ISIS systematically targeted the Yazidi community in 2014, they were trying to destroy a religion whose entire theological content exists only inside living human minds. The genocide was also an epistemicide.",
+    "category": "religion"
+  },
+  {
+    "id": 75,
+    "title": "Medieval Europe's Black Market for Bones",
+    "teaser": "The medieval relic trade was one of the most economically significant markets in Europe — body parts, bones, clothing, and objects attributed to saints were bought, sold, stolen, and faked on an industrial scale. Multiple churches simultaneously claimed to possess the same saint's skull. The head of John the Baptist was venerated in at least three separate locations. Church authorities knew about the fraud and managed it rather than stopping it.",
+    "category": "religion"
+  },
+  {
+    "id": 76,
+    "title": "Negative Interest Rates Actually Happened",
+    "teaser": "Several European central banks implemented negative interest rates in the 2010s — meaning banks were charged for depositing money, reversing a mechanism considered fundamental to banking for centuries. Economists had long treated negative rates as theoretical. When they occurred, the predicted cascading behaviors — mass cash withdrawal, lending surges — largely failed to materialize. The theory of how money works turned out to be an approximation.",
+    "category": "money"
+  },
+  {
+    "id": 77,
+    "title": "Parliament Burned Down Over Sticks",
+    "teaser": "Medieval English government tracked financial obligations using split hazel tally sticks — notched wooden rods where both halves served as proof of a transaction, functioning as legal tender. In 1834, the Exchequer decided to burn a large accumulation of obsolete tally sticks in the furnaces beneath the Houses of Parliament. The fire escaped, spread, and burned the building to the ground. The medieval financial system destroyed the legislature.",
+    "category": "money"
+  },
+  {
+    "id": 78,
+    "title": "Hyperinflation Trauma Is Heritable",
+    "teaser": "Studies of German families who lived through the hyperinflation of the 1920s — when a wheelbarrow of cash couldn't buy a loaf of bread — show that the behavioral aversion to inflation persisted not just through those individuals' lives but into the attitudes and financial behaviors of their children and grandchildren, measurably into the 1980s. Economic trauma transmits across generations through behavioral modeling, not just inherited memory.",
+    "category": "money"
+  },
+  {
+    "id": 79,
+    "title": "Lost Bitcoin Is a Deflationary Mechanism",
+    "teaser": "An estimated three to four million Bitcoin — roughly 15 to 20 percent of the total that will ever exist — is permanently locked in wallets with forgotten or lost private keys and is considered irrecoverable. The total supply is capped at 21 million. As private keys are permanently lost over time, the effective circulating supply shrinks continuously. The lost coins function as a slow, permanent, built-in deflation mechanism that no one designed on purpose.",
+    "category": "money"
+  },
+  {
+    "id": 80,
+    "title": "Offshore Tax Avoidance Is Mostly Legal",
+    "teaser": "The majority of offshore tax avoidance used by multinational corporations and wealthy individuals is entirely legal. The laws enabling it weren't written secretly — they were passed by elected legislatures, frequently following lobbying by the industries that now benefit from them. The system isn't malfunctioning; it's performing as designed by people who had interests in the design. What looks like a loophole is often a purposefully opened door.",
+    "category": "money"
+  },
+  {
+    "id": 81,
+    "title": "The Currency Older Than Most Nations",
+    "teaser": "The British pound sterling is the oldest currency in continuous use in the world — over 1,200 years old, predating the Norman Conquest. It has survived the Black Death, the dissolution of the monasteries, the English Civil War, two world wars, and decolonization while retaining its name, symbol, and identity. What it means economically has changed completely. What it means symbolically has become impossible to separate from that history.",
+    "category": "money"
+  },
+  {
+    "id": 82,
+    "title": "A Building Melted Cars in London",
+    "teaser": "The 'Walkie-Talkie' skyscraper at 20 Fenchurch Street in London, completed in 2014, has a concave south-facing glass facade that concentrates sunlight into a beam intense enough to warp the bodywork of a parked Jaguar, fry eggs on the pavement, and set doormats on fire. The architectural firm had run solar simulations — but had not accounted for the sun's angle during late summer in London. The fix was an external shade called a 'brise-soleil.'",
+    "category": "architecture"
+  },
+  {
+    "id": 83,
+    "title": "Roman Concrete Improves With Age",
+    "teaser": "Modern concrete degrades and crumbles when exposed to seawater within decades. Roman concrete used in harbor structures has survived 2,000 years and researchers discovered why: seawater causes a chemical reaction in the volcanic ash mixture that continuously grows new crystalline structures, strengthening the material over time. We abandoned a superior formula for two millennia. The Romans knew it worked; they didn't know why.",
+    "category": "architecture"
+  },
+  {
+    "id": 84,
+    "title": "Cologne Cathedral Took 632 Years",
+    "teaser": "Construction of Cologne Cathedral began in 1248 and was completed in 1880 — a 632-year building process. For much of that period, the unfinished structure dominated the city skyline with a giant medieval crane sitting on top of the half-built south tower, a landmark in its own right. It raises a question that architecture rarely confronts directly: what does it mean to commit to a project that will only be finished by your distant descendants?",
+    "category": "architecture"
+  },
+  {
+    "id": 85,
+    "title": "Venice Floats on a Petrified Forest",
+    "teaser": "Venice is built on millions of wooden pilings — primarily alder and oak — driven into the lagoon floor beginning in the early medieval period. Because the wood sits below the oxygen layer in the sediment, it hasn't rotted; instead it has mineralized and hardened over centuries into something closer to stone. The city rests on a submerged forest, and that forest is older than most of the buildings above it.",
+    "category": "architecture"
+  },
+  {
+    "id": 86,
+    "title": "The Hospital That Spread Disease",
+    "teaser": "Before germ theory, hospital architecture was designed to combat 'miasma' — the idea that disease came from bad air. Large open wards were built to maximize ventilation and flush out putrid air. This design also concentrated sick patients in proximity to each other, accelerating the transmission of actual pathogens. Florence Nightingale championed these wards, saved lives with her reforms, and was right for the wrong reason.",
+    "category": "architecture"
+  },
+  {
+    "id": 87,
+    "title": "Ancient Theaters Engineered Silence",
+    "teaser": "The ancient Greek theater at Epidaurus seats 14,000 people and is famous for its extraordinary acoustics — a whisper on stage is clearly audible in the back row. Researchers discovered this wasn't accidental: the limestone seating filters low-frequency noise while preserving and amplifying higher vocal frequencies. The Greeks engineered acoustic outcomes at architectural scale without any formal theory of acoustics. They just knew it worked.",
+    "category": "architecture"
+  },
+  {
+    "id": 88,
+    "title": "The Gardner Heist Frames Are Still Empty",
+    "teaser": "In 1990, thieves disguised as police officers stole 13 artworks from the Isabella Stewart Gardner Museum in Boston — including works by Vermeer, Rembrandt, and Degas — in the largest art theft in history, valued at over $500 million. The crime has never been solved. Per the founder's standing instructions, the empty frames remain on the walls where the paintings hung, and the museum has kept the frames there for over 30 years as a statement of intent to recover them.",
+    "category": "crime"
+  },
+  {
+    "id": 89,
+    "title": "Poison Was Coded as Female",
+    "teaser": "For centuries in European legal and medical history, poison was culturally and legally associated with women — not because women used it more than men, but because it could be administered covertly without physical strength or confrontation. This association shaped how female murder suspects were prosecuted, what evidence courts found credible, and how the crime was investigated. The link between femininity and poisoning was constructed, legally reinforced, and left traces in how we still discuss it.",
+    "category": "crime"
+  },
+  {
+    "id": 90,
+    "title": "Fingerprint Analysis Has Unknown Error Rates",
+    "teaser": "Fingerprint analysis has been used as forensic evidence in criminal trials for over a century and is still widely considered definitive. But unlike DNA analysis — which has been subjected to rigorous scientific validation with known error rates — fingerprint matching has never been systematically validated to a quantified accuracy standard. Examiners disagree on matches. People have been wrongfully convicted on the basis of a method whose error rate is genuinely unknown.",
+    "category": "crime"
+  },
+  {
+    "id": 91,
+    "title": "Corporations Can Die Before Paying",
+    "teaser": "When a corporation is found criminally liable, the company can be fined — but the humans who made the relevant decisions often face no personal liability. The company can subsequently dissolve, be restructured, or go bankrupt, taking its liability with it into legal nonexistence. The executives who approved the decision leave with their compensation. This isn't an accidental feature of corporate law; it's the liability-limiting function the structure was designed to provide.",
+    "category": "crime"
+  },
+  {
+    "id": 92,
+    "title": "Art Crime Needs No Gallery",
+    "teaser": "The illegal art trade is estimated at six to eight billion dollars annually — making it roughly the third-largest criminal enterprise in the world after drugs and arms trafficking. Most stolen art is never publicly displayed. Significant portions are reportedly used as collateral in financial transactions, as a portable store of value, or simply held. The art doesn't need to be seen to be worth something to someone.",
+    "category": "crime"
+  },
+  {
+    "id": 93,
+    "title": "Financial Crimes Get Shorter Sentences",
+    "teaser": "Consistent sentencing data in the United States and United Kingdom shows that white-collar criminals who steal millions receive shorter average sentences than people convicted of street crimes involving hundreds of dollars. The disparity has multiple explanations — prosecutorial complexity, legal representation quality, judicial discretion — but one pattern is difficult to ignore: the people who write sentencing guidelines and fund the campaigns of legislators are rarely the ones who rob banks at gunpoint.",
+    "category": "crime"
+  },
+  {
+    "id": 94,
+    "title": "GPS Has a Built-In Expiration",
+    "teaser": "The GPS system encodes time using a week-number counter that resets to zero every 1,024 weeks — approximately every 19.7 years. This rollover causes older, unpatched GPS receivers to produce incorrect dates and, in some cases, incorrect position calculations — silently, without error messages. The first rollover in 1999 caused failures in legacy systems. The second occurred in April 2019. Older devices are quietly navigating in the wrong time.",
+    "category": "technology"
+  },
+  {
+    "id": 95,
+    "title": "The Internet's Fragile Physical Layer",
+    "teaser": "Over 95% of international internet traffic travels through approximately 400 fiber-optic cables lying on the ocean floor — each one roughly the diameter of a garden hose. These cables are largely unguarded, their routes are publicly documented, and in many locations they pass through shallow coastal waters where they can be accessed by a fishing boat with the right equipment. Multiple geopolitical analysts have noted that a coordinated attack on a small number of key cables could sever continents from the global internet.",
+    "category": "technology"
+  },
+  {
+    "id": 96,
+    "title": "Autocomplete Is Shaping Language",
+    "teaser": "Predictive text systems don't just predict what users intend to write — they slightly nudge users toward the predicted phrase. Across billions of interactions, autocomplete systems may be measurably homogenizing language, collapsing variation, and pushing expression toward modal phrases the model has already learned. The algorithm trained on human language is subtly reshaping the human language it will be trained on next.",
+    "category": "technology"
+  },
+  {
+    "id": 97,
+    "title": "The Lightbulb Cartel Set a Lifespan",
+    "teaser": "In 1925, a cartel of the world's major lightbulb manufacturers — including Philips, Osram, and General Electric — formally agreed to limit bulb lifespan to 1,000 hours, reducing it from the 2,500-hour average that technology at the time could achieve. The Phoebus Cartel, as it's now called, is the first documented case of coordinated product obsolescence. Its structure later became a template for planned obsolescence practices across consumer industries.",
+    "category": "technology"
+  },
+  {
+    "id": 98,
+    "title": "Bail Algorithms Learn Policing Patterns",
+    "teaser": "Several U.S. jurisdictions use algorithmic risk-assessment tools to inform bail and sentencing decisions. These tools are trained on historical arrest data — which encodes the policing patterns, priorities, and biases of the departments that produced it. The algorithm learns to predict who will be arrested, not who will commit crimes. Courts then use its predictions to make decisions that affect the probability of future arrests. The loop closes on itself.",
+    "category": "technology"
+  },
+  {
+    "id": 99,
+    "title": "Your Purchases Predict Your Death",
+    "teaser": "Insurance and healthcare companies have deployed machine-learning models that predict mortality with documented accuracy using data sources that include purchase history, location patterns, social media behavior, and consumer loyalty records — without accessing medical records. The model has no knowledge of your diagnosis. It knows your habits. And in prospective studies, it has outperformed physicians at predicting one-year mortality.",
+    "category": "technology"
+  },
+  {
+    "id": 100,
+    "title": "The Computer Bug Was the Joke",
+    "teaser": "The first documented computer 'bug' was an actual moth found trapped in a relay of the Harvard Mark II in 1947, taped into the engineering logbook with the notation 'first actual case of bug being found.' The joke works because 'bug' was already engineering slang for a mechanical defect — Grace Hopper's team didn't coin the term, they confirmed it with a specimen. The moth is in the Smithsonian. The word it anchored has since become the most pervasive metaphor in technology.",
+    "category": "technology"
+  }
+]
